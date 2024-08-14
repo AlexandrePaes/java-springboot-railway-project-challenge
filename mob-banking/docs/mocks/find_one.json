@@ -1,0 +1,48 @@
+{
+    "id": 1,
+    "name": "DIO",
+    "account": {
+      "id": 1,
+      "number": "01.097954-4",
+      "agency": "2030",
+      "balance": 624.12,
+      "limit": 1000.00
+    },
+    "card": {
+      "id": 1,
+      "number": "xxxx xxxx xxxx 1111",
+      "limit": 2000.00
+    },
+    "features": [
+      {
+        "id": 1,
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "description": "Transferir"
+      },
+      {
+        "id": 4,
+        "description": "Conta Corrente"
+      },
+      {
+        "id": 5,
+        "description": "Cartões"
+      }
+    ],
+    "news": [
+      {
+        "id": 2,
+        "description": "Banco Seguro Casa, seu faz-tudo. Mais de 50 serviços pra você. Confira!"
+      },
+      {
+        "id": 1,
+        "description": "O Banco tem soluções de crédito sob medida pra você. Confira!"
+      }
+    ]
+  }
